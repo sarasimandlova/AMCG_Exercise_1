@@ -1,6 +1,6 @@
 ## Exercise 1: Sars-CoV-2 Lineage Determination
 
-I downloaded the FASTA file. ( https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2?report=fasta )
+I downloaded the [FASTA file ]( https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2?report=fasta ).
 
 I installed the bwa package: sudo apt install bwa
 
