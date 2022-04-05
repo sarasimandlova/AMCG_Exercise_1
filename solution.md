@@ -28,3 +28,9 @@ I indexed the bam file using this command:
  For visualizing alignment i used command bellow: 
  
  `samtools tview --reference sequence.fasta -p NC_045512.2:23000 aligned.bam`
+ 
+ ## Variant calling 
+ 
+ For variant calling i used command bellow:
+
+`bcftools mpileup -f sequence.fasta aligned.bam | bcftools call --ploidy 1 -mv -Ob -o varcall.bcf`
