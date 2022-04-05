@@ -22,3 +22,9 @@ I then downloaded the reference genome using the `wget` command:
 I indexed the bam file using this command:
 
 `samtools index aligned.bam`
+
+## Visualizing alignments
+
+ For visualizing alignments i used command bellow: 
+ 
+ `samtools tview --reference sequence.fasta -p NC_045512.2:23000 aligned.bam`
