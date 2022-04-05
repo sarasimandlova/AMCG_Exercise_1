@@ -25,6 +25,6 @@ I indexed the bam file using this command:
 
 ## Visualizing alignments
 
- For visualizing alignments i used command bellow: 
+ For visualizing alignment i used command bellow: 
  
  `samtools tview --reference sequence.fasta -p NC_045512.2:23000 aligned.bam`
