@@ -40,10 +40,7 @@ Using this command:
 `bcftools view variants.bcf | cut -f 1-5 | grep -v "^#"`
 
 I got this output:
-
-`
-
-NC_045512.2     241     .       C       T
+> NC_045512.2     241     .       C       T
 NC_045512.2     913     .       C       T
 NC_045512.2     3037    .       C       T
 NC_045512.2     3267    .       C       T
@@ -83,5 +80,3 @@ NC_045512.2     28881   .       G       A
 NC_045512.2     28882   .       G       A
 NC_045512.2     28883   .       G       C
 NC_045512.2     28977   .       C       T
-
-`
