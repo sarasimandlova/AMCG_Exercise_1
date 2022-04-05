@@ -7,5 +7,6 @@ I installed the bwa package:
 `sudo apt install bwa`
 
 I indexed the reference as follows: 
+
 `bwa index sequence.fasta`
 
