@@ -116,4 +116,4 @@ NC_045512.2     29688   .       G       T
 NC_045512.2     29837   .       C       T
 ```
 ## Lineage assignment
-using [VEP] (https://covid-19.ensembl.org/info/docs/tools/vep/index.html) and [outbreak.info] (https://outbreak.info/compare-lineages?gene=S&threshold=75&nthresh=1&sub=false&dark=false) I evaluated that it is an omicron mutation.
+using [VEP](https://covid-19.ensembl.org/info/docs/tools/vep/index.html) and [outbreak.info](https://outbreak.info/compare-lineages?gene=S&threshold=75&nthresh=1&sub=false&dark=false) I evaluated that it is an _omicron mutation_.
